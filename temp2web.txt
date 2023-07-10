@@ -1,0 +1,2 @@
+Sensor 0|18.312500|Celsius|1688663821
+Sensor 0|64.962502|Fahrenheit|1688663821
